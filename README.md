@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ashleigh-birjuk
+- 👀 I’m interested in reading, cybersecurity and coding, and the emerging AI tech.
+- 🌱 I’m currently learning Python and developing my knowledge more in network security protocols and advanced threat detection techniques.
+- 💞️ I’m looking to collaborate on projects related to technical writing, technical support, and breaking into the field of cybersecurity.
+- 📫 How to reach me: email - birjukashleigh@gmail.com, LinkedIn - [Ashleigh N. Birjuk](https://www.linkedin.com/in/ashleigh-n-birjuk/)
+- ⚡ Fun fact: I have lived in 5 different countries. While I have settled down in Europe, I spent a lot of learning about new places.
